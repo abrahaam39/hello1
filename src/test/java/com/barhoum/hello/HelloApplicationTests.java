@@ -1,10 +1,7 @@
-package com.barhoum.hello;
+package com.barhoum.Hello;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class HelloApplicationTests {
+class Hello {
 
 	@Test
 	void contextLoads() {
